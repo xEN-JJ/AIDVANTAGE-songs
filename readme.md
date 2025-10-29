@@ -1,20 +1,20 @@
 ## Advanced Git Activity
 
 ### Task 1
-- [ ] Fork this repository
-- [ ] Create folder with your group name as the folder name (e.g., "team-alpha") then add file insite called "team-members.txt"
-- [ ] Create a list of all team members inside the "team-members.txt" file
-- [ ] Commit and push to main branch
-- [ ] Inside the folder, Each team member create a text file with your favorite song title as filename
-- [ ] Add the title inside the text file and lyrics.
+- [x] Fork this repository
+- [x] Create folder with your group name as the folder name (e.g., "team-alpha") then add file insite called "team-members.txt"
+- [x] Create a list of all team members inside the "team-members.txt" file
+- [x] Commit and push to main branch
+- [x] Inside the folder, Each team member create a text file with your favorite song title as filename
+- [x] Add the title inside the text file and lyrics.
 
 #### Guidelines
-- [ ] Each song must be in separate branch
-- [ ] Create Pull Request to merge your branch to the main branch
-- [ ] Other team member must review and approve the PR before merging
+- [x] Each song must be in separate branch
+- [x] Create Pull Request to merge your branch to the main branch
+- [x] Other team member must review and approve the PR before merging
 
 ### Task 2
-- [ ] Each team member create new branches for each of these items
+- [x] Each team member create new branches for each of these items
    1. Update all the songs parts (verse/chorus/etc) to add `**` in the beginning and `**` at the end
         ```
       **I was a ghost, I was alone (hah)
